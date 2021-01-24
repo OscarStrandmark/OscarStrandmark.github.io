@@ -57,4 +57,9 @@ hr {
     .content {
         font-size: small;
     }
+
+    .contentholder {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
 }
