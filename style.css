@@ -25,6 +25,7 @@
     margin-right: 5px;
     margin-top: 5px;
     border-radius: 3px;
+    transform: scaleX(-1);
 }
 
 h1 {
